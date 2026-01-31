@@ -29,9 +29,9 @@ The system follows a three-layer design:
 Our hybrid approach demonstrated significant improvements over baseline Solr:
 | Query | Baseline P@5 | Hybrid P@5 |
 | :--- | :---: | :---: |
-| "love story" | 0.00 | **1.00** |
+| "love story" | 0.8 | **1.00** |
 | "alien invasion" | 0.60 | **1.00** |
-| "psych. thriller" | 0.00 | **0.80** |
+| "psych. thriller" | 0.6 | **0.80** |
 
 ## Technology Stack
 -   **Core Engine**: Apache Solr
