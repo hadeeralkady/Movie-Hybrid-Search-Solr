@@ -55,6 +55,8 @@ Our hybrid approach demonstrated significant improvements over baseline Solr:
 2.
   ```bash
   docker-compose up --build
+---
+
 ## 👥 Contributors
 Mina Eskander
 Hagar Selim
