@@ -51,11 +51,11 @@ Our hybrid approach demonstrated significant improvements over baseline Solr:
    ```bash
    git clone https://github.com/YOUR_USERNAME/Movie-Hybrid-Search-Solr.git
    cd Movie-Hybrid-Search-Solr
+   
 ### Run with Docker:
 2.
-  ```bash
-  docker-compose up --build
----
+   ```bash
+   docker-compose up --build
 
 ## 👥 Contributors
 Mina Eskander
