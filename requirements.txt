@@ -1,0 +1,10 @@
+pysolr
+streamlit
+pandas
+nltk
+sentence-transformers
+scikit-learn
+keybert
+faiss-cpu
+numpy
+matplotlib
