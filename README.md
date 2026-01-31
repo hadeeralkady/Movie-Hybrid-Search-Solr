@@ -57,8 +57,11 @@ Our hybrid approach demonstrated significant improvements over baseline Solr:
    ```bash
    docker-compose up --build
 
-## 👥 Contributors
-Mina Eskander
-Hagar Selim
-Hadeer Elkady
-Arab Academy for Science, Technology and Maritime Transport (AASTMT)
+## 👥 Authors
+- **Mina Eskander**<sup>†</sup> (minaeskander291@gmail.com)
+- **Hagar Selim**<sup>†</sup> (Hagargalal36@gmail.com)
+- **Hadeer Elkady**<sup>†</sup> (hadeeralkady606@gmail.com)
+
+*<sup>†</sup> These authors contributed equally to this work.*
+
+**Institution:** Arab Academy for Science, Technology and Maritime Transport (AASTMT), Egypt.
