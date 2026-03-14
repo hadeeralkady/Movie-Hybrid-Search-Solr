@@ -1,12 +1,13 @@
 # Balancing Efficiency and Relevance: A Solr-Based Hybrid Search Architecture 🎬
 
+[![Watch the video](https://img.youtube.com/vi/4df8PduCncY/hqdefault.jpg)](https://youtu.be/4df8PduCncY)
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Solr](https://img.shields.io/badge/Apache_Solr-9.0-red.svg)](https://solr.apache.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 
 This repository contains a complete **Advanced Information Retrieval (IR)** system for movie metadata. The project implements a hybrid architecture that combines the speed of **Apache Solr** (Lexical Search) with the deep understanding of **Sentence-BERT** (Semantic Re-ranking).
-
 ## Project Overview
 Traditional lexical search (BM25) often fails due to the "vocabulary gap" (e.g., searching for "hero journey" might not return movies that don't explicitly use those words). This system solves this by:
 1.  **Fast Candidate Generation**: Using Solr's inverted index to fetch the top 200 candidates.
